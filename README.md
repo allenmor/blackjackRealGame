@@ -50,3 +50,4 @@ Add card counting stats <br />
 Make responsive<br />
 
 ## Known Bugs
+# blackjackRealGame
